@@ -1,5 +1,6 @@
 import random
 
+# Creating class
 class PowerMegaLottoCash5:
     def __init__(self):
         self.lower = 1
